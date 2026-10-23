@@ -1,0 +1,8 @@
+node_modules
+dist
+.local
+.artifacts
+docs
+source
+package-lock.json
+**/AGENTS.md
